@@ -1,0 +1,12 @@
+# Arduino / PlatformIO build output
+build/
+.pio/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local credentials (keep WiFi / Firebase secrets out of the repo)
+secrets.h
