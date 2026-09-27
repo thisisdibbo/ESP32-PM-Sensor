@@ -4,6 +4,7 @@
 ![Arduino](https://img.shields.io/badge/Framework-Arduino-00979D?logo=arduino&logoColor=white)
 ![PMS5003](https://img.shields.io/badge/Sensor-PMS5003-2E86C1)
 ![EasyEDA](https://img.shields.io/badge/PCB-EasyEDA-1E90FF)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 A portable ESP32 logger for **particulate matter (PM1.0, PM2.5, PM10)**. It reads a **Plantower PMS5003** sensor and records each sample with:
 
@@ -262,6 +263,7 @@ ESP32-PM-Sensor/
 │   ├── pcb/                             # Gerber ZIP + DXF
 │   └── 3d/                              # Enclosure STLs + PCB 3D model
 ├── images/                              # Photos, renders, screenshots
+├── LICENSE
 └── README.md
 ```
 
@@ -269,5 +271,12 @@ ESP32-PM-Sensor/
 
 ## Author
 
-**Md. Mahin Rahman**
+**Md. Mahin Rahman**<br>
+Email: [mr.d2003feb@gmail.com](mailto:mr.d2003feb@gmail.com)<br>
 GitHub: [@thisisdibbo](https://github.com/thisisdibbo)
+
+---
+
+## License
+
+This project is released under the [MIT License](LICENSE).
