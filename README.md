@@ -270,6 +270,4 @@ ESP32-PM-Sensor/
 ## Author
 
 **Md. Mahin Rahman**
-Department of Electrical and Electronic Engineering
-Islamic University of Technology (IUT), Gazipur, Bangladesh
 GitHub: [@thisisdibbo](https://github.com/thisisdibbo)
