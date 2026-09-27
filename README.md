@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/logo/logo-dark.svg">
+    <img src="images/logo/logo.svg" alt="PM Sensor logo" width="560">
+  </picture>
+</p>
+
 # ESP32 PM Sensor: Portable Air Quality & Noise Logger
 
 ![ESP32](https://img.shields.io/badge/MCU-ESP32-E7352C?logo=espressif&logoColor=white)
@@ -262,7 +269,7 @@ ESP32-PM-Sensor/
 │   ├── schematic/                       # Schematic PNG
 │   ├── pcb/                             # Gerber ZIP + DXF
 │   └── 3d/                              # Enclosure STLs + PCB 3D model
-├── images/                              # Photos, renders, screenshots
+├── images/                              # Logo, photos, renders, screenshots
 ├── LICENSE
 └── README.md
 ```
